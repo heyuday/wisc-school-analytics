@@ -33,9 +33,10 @@ This project integrates **Google Cloud Storage (GCS)**, **BigQuery**, and **Data
 - **Top counties by school count:** Milwaukee, Dane, Waukesha  
 - **Geospatial mapping:** Each school mapped to a `ST_GEOGPOINT` location  
 
-![Dataform dependency graph](src/dep-graph.png)
+## 💡 Highlights
 
----
-
-## 🧩 Folder Structure
-
+- **Google Cloud Dataform** for modular SQL pipelines  
+- **BigQuery GIS** for county–school geospatial joins  
+- **PyArrow & GCS** for efficient data serialization  
+- **Jupyter-based pipeline orchestration**  
+- **Fully reproducible on GCP VM or local Colab setup**
