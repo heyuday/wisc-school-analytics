@@ -3,6 +3,8 @@
 End-to-end data engineering project using **Google Cloud Platform** to analyze public and private school data across Wisconsin.  
 This project integrates **Google Cloud Storage (GCS)**, **BigQuery**, and **Dataform** for scalable ETL and geospatial analytics.
 
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/37edcaf6-3a37-43dc-a907-aefe4ec6213c" />
+
 ---
 
 ## 🚀 Overview
