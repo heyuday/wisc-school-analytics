@@ -1,4 +1,4 @@
-# 🏫 Wisconsin School Data Analytics (Google Cloud)
+#  Wisconsin School Data Analytics (Google Cloud)
 
 End-to-end data engineering project using **Google Cloud Platform** to analyze public and private school data across Wisconsin.  
 This project integrates **Google Cloud Storage (GCS)**, **BigQuery**, and **Dataform** for scalable ETL and geospatial analytics.
@@ -7,7 +7,7 @@ This project integrates **Google Cloud Storage (GCS)**, **BigQuery**, and **Data
 
 ---
 
-## 🚀 Overview
+##Overview
 
 - **Goal:** Build a complete data pipeline for educational data analytics.  
 - **Stack:** Python, PyArrow, Google Cloud Storage, Dataform, BigQuery, Pandas.  
@@ -15,7 +15,7 @@ This project integrates **Google Cloud Storage (GCS)**, **BigQuery**, and **Data
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 
 - **Data Ingestion:** Upload raw `.parquet` dataset to GCS.  
 - **Transformation:** Create SQLX models in Dataform:
@@ -29,13 +29,13 @@ This project integrates **Google Cloud Storage (GCS)**, **BigQuery**, and **Data
 
 ---
 
-## 📊 Sample Outputs
+## Sample Outputs
 
 - **Total public schools:** 2,116  
 - **Top counties by school count:** Milwaukee, Dane, Waukesha  
 - **Geospatial mapping:** Each school mapped to a `ST_GEOGPOINT` location  
 
-## 💡 Highlights
+##  Highlights
 
 - **Google Cloud Dataform** for modular SQL pipelines  
 - **BigQuery GIS** for county–school geospatial joins  
